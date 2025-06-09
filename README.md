@@ -4,8 +4,6 @@
 
 Code du webservice développé avec Laravel. Ce webservice sera interrogé par l'application client leger "**b2LP**" développée avec ReactNative.
 
-Mise à jour  _Mars 2025_.
-
 ### 1. Programmation.
 
 - Développement avec le framework **Laravel**.
